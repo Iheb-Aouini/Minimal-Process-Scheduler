@@ -26,6 +26,15 @@ Before running the project, ensure you have the following dependencies installed
 - Make
 - GTK3
 
+  ## on Debian distros
+      ```bash
+sudo apt-get install gcc && sudo apt-get install make && sudo apt-get install libgtk-3-dev
+   ```
+  ## on Fedora
+
+sudo dnf install gcc && sudo dnf install make && sudo dnf install gtk3-devel
+
+
 ## Installation
 
 1. **Clone the repository:**
