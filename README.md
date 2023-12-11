@@ -28,13 +28,13 @@ Before running the project, ensure you have the following dependencies installed
 - GTK3
 
 ### on Debian distros
-      ```bash
+    ```bash
 sudo apt-get install gcc && sudo apt-get install make && sudo apt-get install libgtk-3-dev
-     ```
+    ```
 ### on Fedora / Arch
-
+    ```bash
 sudo dnf install gcc && sudo dnf install make && sudo dnf install gtk3-devel
-
+    ```
 
 ## Installation
 
@@ -43,7 +43,6 @@ sudo dnf install gcc && sudo dnf install make && sudo dnf install gtk3-devel
     ```bash
     git clone https://github.com/your-username/Minimal-Process-Scheduler.git
     ```
-
 2. **Change to the project directory:**
 
     ```bash
