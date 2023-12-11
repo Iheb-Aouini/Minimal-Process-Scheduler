@@ -65,13 +65,14 @@ Before running the project, ensure you have the following dependencies installed
     ```bash
     ./menu processes_list.txt
     ```
+
+2. **Enjoy exploring the project and experimenting with various scheduling scenarios.**
+
+
 3. **clean the build:**
     ```bash
     make clean
     ```  
-
-2. **Enjoy exploring the project and experimenting with various scheduling scenarios.**
-
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
