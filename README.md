@@ -44,7 +44,7 @@ Before running the project, ensure you have the following dependencies installed
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/Minimal-Process-Scheduler.git
+    git clone https://github.com/Iheb-Aouini/Minimal-Process-Scheduler.git
     ```
 2. **Change to the project directory:**
 
