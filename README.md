@@ -78,4 +78,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
+ Feel free to use, modify, and distribute it as per the terms of the license.
