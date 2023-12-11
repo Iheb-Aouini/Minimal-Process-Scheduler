@@ -49,7 +49,7 @@ Before running the project, ensure you have the following dependencies installed
 2. **Change to the project directory:**
 
     ```bash
-    cd Minimal-Process-Scheduler
+    cd Minimal-Process-Scheduler/Project
     ```
 
 3. **Build the project:**
